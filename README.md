@@ -37,3 +37,5 @@ Right-Wing Crimes: Bundesministerium des Inneren, collected and edited by DIE LI
 I took this course, because I wanted to (primarily visually) improve my graphs and charts used in presentations. While it may be challenging to apply interactive graphs or maps in a speech, I do not regret taking this course, since it showed me many free tools and alternatives to ArcGis that are very easy to implement in a website.  
 Something that I feel is missing in the course, is the topic of coordinate reference systems. Many publicly available geodata comes in all sorts of different reference systems and has to be converted. 
 
+<br>
+<br>

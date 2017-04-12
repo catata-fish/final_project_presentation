@@ -27,5 +27,14 @@ The two scatter plots powerfully demonstrate the difference between the east and
 <br>
 
 <h2>Sources:</h2>
-Population Data: Statistisches Bundesamt (Destatis) – https://www.destatis.de/DE/ZahlenFakten/GesellschaftStaat/Bevoelkerung/MigrationIntegration/AuslaendischeBevolkerung/Tabellen/Bundeslaender.html  
-Right-Wing Crimes: Bundesministerium des Inneren, collected and edited by DIE LINKE – http://www.petrapau.de/18_bundestag/dok/down/2015_zf-rechtsextreme-straftaten.pdf
+Population Data: Statistisches Bundesamt (Destatis) – <a href="https://www.destatis.de/DE/ZahlenFakten/GesellschaftStaat/Bevoelkerung/MigrationIntegration/AuslaendischeBevolkerung/Tabellen/Bundeslaender.html">https://www.destatis.de/DE/ZahlenFakten/GesellschaftStaat/Bevoelkerung/MigrationIntegration/AuslaendischeBevolkerung/Tabellen/Bundeslaender.html</a> 
+
+Right-Wing Crimes: Bundesministerium des Inneren, collected and edited by DIE LINKE – <a href="http://www.petrapau.de/18_bundestag/dok/down/2015_zf-rechtsextreme-straftaten.pdf">http://www.petrapau.de/18_bundestag/dok/down/2015_zf-rechtsextreme-straftaten.pdf</a>
+
+<br>
+<br>
+
+<h2>Reflection on Learning</h2>
+I took this course, because I wanted to (primarily visually) improve my graphs and charts used in presentations. While it may be challenging to apply interactive graphs or maps in a speech, I do not regret taking this course, since it showed me many free tools and alternatives to ArcGis that are very easy to implement in a website.  
+Something that I feel is missing in the course, is the topic of coordinate reference systems. Many publicly available geodata comes in all sorts of different reference systems and has to be converted. 
+

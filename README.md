@@ -1,6 +1,5 @@
 # Xenophobia in Germany
 
-https://catata-fish.github.io/final_project_presentation/
 
 In 1990 the formerly divided Germany <a href="https://en.wikipedia.org/wiki/German_reunification">reunified</a>, when the former German Democratic Republic in the east joined the  Federal Republic of Germany in the west. More than 25 years later there still exist many differences between the two regions. One particular difference is the varying occurence of <a href="https://en.wikipedia.org/wiki/Xenophobia">Xenophobia </a> amongh the various German states. 
 
